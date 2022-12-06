@@ -38,6 +38,9 @@ const typeDefs = gql`
   }
 `;
 
+//need input and type - look at activity 21 in STATE repo
+//Type Query is just getting the stuff, while mutation is making the additions and what it needs to make additions I think
+
 //Not sure on the ID portions - need help here
 
 //look into creatign an input type to handle all parameters
